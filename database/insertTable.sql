@@ -1,0 +1,44 @@
+INSERT INTO example (
+  birthday,
+  name,
+  jedi) VALUES
+(
+  "1900-01-01",
+  "Jean-Claude",
+  true
+),
+(
+  "1960-11-21",
+  "Patrick",
+  true
+),
+(
+  "1935-04-15",
+  "Mumu",
+  true
+),
+(
+  "1904-02-09",
+  "Catou",
+  false
+),
+(
+  "1999-05-05",
+  "Titouan",
+  false
+),
+(
+  "1958-08-17",
+  "Titi",
+  true
+),
+(
+  "1978-02-16",
+  "Nanar",
+  false
+),
+(
+  "1924-06-12",
+  "Bea",
+  true
+);
